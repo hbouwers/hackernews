@@ -103,6 +103,9 @@ footer ul{
     display:flex;
     font-size:12px;
 }
+footer li{
+    padding-right:5px;
+}
 #search-bar{
     padding:15px;
 }
